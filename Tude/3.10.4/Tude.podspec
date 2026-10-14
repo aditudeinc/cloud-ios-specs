@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'Tude.xcframework'
   s.preserve_paths = 'Tude.xcframework/*'
 
-  s.dependency 'PrebidMobile', '3.3.1'
+  s.dependency 'PrebidMobile', '3.3.4'
   s.dependency 'Google-Mobile-Ads-SDK', '>= 13.4.0'
   s.dependency 'AmazonPublisherServicesSDK', '~> 4.9.7'
 
